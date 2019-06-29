@@ -1,3 +1,5 @@
+# Bayesian Online Change-point Detection
+
 This folder contains:
 
  --- the python codes of the algorithms BOCD and BOCDm
