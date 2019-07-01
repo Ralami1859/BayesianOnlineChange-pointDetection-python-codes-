@@ -13,3 +13,5 @@ This folder contains:
 	
 ----> For a demon please launch the following script: demoOnlineDetection.py
 
+The original version of the Bayesian Online Change-point Detector can be found here: https://arxiv.org/abs/0710.3742
+
