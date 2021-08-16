@@ -11,7 +11,7 @@ This folder contains:
  -2- demoOnlineDetection.py is a demonstration of the four algorithms (BOCD, BOCDm, BOCD_restart, BOCDm_restart)
 	in a piece-wise Bernoulli environment
 	
-----> For a demon please launch the following script: demoOnlineDetection.py
+----> For a demo please launch the following script: demoOnlineDetection.py
 
 The original version of the Bayesian Online Change-point Detector can be found here: https://arxiv.org/abs/0710.3742
 
